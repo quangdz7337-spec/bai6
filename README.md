@@ -54,6 +54,9 @@ Dự án này sử dụng **STM32F103C8T6 (Blue Pill)** để đọc dữ liệu
 - Gửi dữ liệu qua UART theo định dạng:
 
 BH1750 One-Time Lux Test
+
 Lux: 45.78
+
 Lux: 46.21
+
 Lux: 47.02
